@@ -1,0 +1,7 @@
+@import url('./__videos/video__videos.css');
+@import url('./__element/video__element.css');
+
+.video {
+  position: relative;
+  text-align: center;
+}
