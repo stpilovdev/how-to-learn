@@ -1,0 +1,5 @@
+.video__element {
+  max-width: 515px;
+  min-height: 316px;
+  object-fit: cover;
+}
